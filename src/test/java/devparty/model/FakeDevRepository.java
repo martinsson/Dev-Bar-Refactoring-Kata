@@ -1,7 +1,6 @@
-package devparty.repository;
+package devparty.model;
 
 import devparty.IDevRepository;
-import devparty.repository.DevData;
 
 import java.util.List;
 

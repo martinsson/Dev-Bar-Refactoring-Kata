@@ -1,7 +1,7 @@
 package devparty;
 
 import devparty.api.BookingController;
-import devparty.repository.*;
+import devparty.model.*;
 import org.junit.jupiter.api.Test;
 
 import java.time.DayOfWeek;

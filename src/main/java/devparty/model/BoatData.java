@@ -1,4 +1,4 @@
-package devparty.repository;
+package devparty.model;
 
 public class BoatData {
 

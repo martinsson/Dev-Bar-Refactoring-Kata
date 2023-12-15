@@ -1,6 +1,8 @@
 package devparty;
 
-import devparty.repository.BarData;
+import devparty.model.Bar;
+import devparty.model.BarData;
+import devparty.model.BookingData;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;

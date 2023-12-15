@@ -1,6 +1,5 @@
-package devparty.repository;
+package devparty.model;
 
-import devparty.BookingData;
 import devparty.IBookingRepository;
 
 import java.time.LocalDate;

@@ -1,6 +1,6 @@
 package devparty;
 
-import devparty.repository.BoatData;
+import devparty.model.BoatData;
 
 import java.util.List;
 

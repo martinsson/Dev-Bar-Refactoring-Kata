@@ -1,6 +1,6 @@
-package devparty;
+package devparty.model;
 
-import devparty.repository.BarData;
+import devparty.model.BarData;
 
 import java.time.LocalDate;
 

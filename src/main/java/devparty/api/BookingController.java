@@ -1,6 +1,6 @@
 package devparty.api;
 
-import devparty.BookingData;
+import devparty.model.BookingData;
 import devparty.BookingService;
 import devparty.IBookingRepository;
 

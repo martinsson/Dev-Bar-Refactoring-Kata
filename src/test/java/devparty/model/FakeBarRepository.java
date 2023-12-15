@@ -1,4 +1,4 @@
-package devparty.repository;
+package devparty.model;
 
 import devparty.IBarRepository;
 

@@ -1,6 +1,6 @@
 package devparty;
 
-import devparty.repository.BarData;
+import devparty.model.BarData;
 
 import java.util.List;
 
