@@ -69,7 +69,7 @@ public class BookingService {
         }
 
         for (var barData : bars) {
-            if (barData.getCapacity() >= maxNumberOfDevs && Arrays.asList(barData.getOpen()).contains(bestDate.getDayOfWeek())) {
+            if (barData.getCapacity() >= maxNumberOfDevs && barData.getOpen().contains(bestDate.getDayOfWeek())) {
                 bookBar(barData.getName(), bestDate);
                 bookingRepo.save(new BookingData(barData, bestDate));
                 return true;
